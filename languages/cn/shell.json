@@ -1,0 +1,10 @@
+{
+    "anzhuang":"sudo yum install -y ",
+    "shanzhuruanjian":"sudo yum remove -y", 
+    "bianjikuaijiemingling":"vi source /etc/.bashrc", 
+    "shixingkuaijiefangshi":"source /etc/.bashrc", 
+    "jiuming":"help", 
+    "bangzhu":"help", 
+    "bangmang":"help",
+    "xianshi":"echo"
+}
