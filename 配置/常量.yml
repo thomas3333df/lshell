@@ -1,0 +1,7 @@
+根节点:
+  版本: 1.0
+  服务器api的目录: https://localhost:8080/api/v1/
+  服务器端翻译的url: https://localhost:8080/api/v1/
+  服务器端更新api的url: https://localhost:8080/api/v1/
+  客户端的uuid: https://localhost:8080/api/v1/
+  客户端的登录token: https://localhost:8080/api/v1/
